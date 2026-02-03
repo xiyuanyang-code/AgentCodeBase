@@ -182,11 +182,14 @@ results = pipeline.run(
 # 结果会自动保存到 output/{experiment_name}/result.jsonl
 ```
 
+### `Matplotlib` and `Seaborn` Modules Support
+
+`mplstyle` files borrowed from [Public Github](https://github.com/hosilva/mplstyle)
+
 
 ## Todo List
 
 - [x] Add Demo usage for class `LLMClient`
+- [x] Find and Optimize custon mplstyle file
 - [ ] Add detailed code and docs for image drawing
 - [ ] Add Config and system level support for `prompts` (or maybe skills...)
-- [ ] Add unit tests for all modules
-- [ ] Add performance benchmarks and optimization
