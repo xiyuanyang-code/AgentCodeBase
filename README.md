@@ -186,10 +186,15 @@ results = pipeline.run(
 
 `mplstyle` files borrowed from [Public Github](https://github.com/hosilva/mplstyle)
 
+See detailed human documents and prompts for agents in:
+
+- [Human Documents](./codebase/draw/README4HUMAN.md)
+- [Prompts for Agents](./codebase/draw/README4AGENTS.md)
+
 
 ## Todo List
 
 - [x] Add Demo usage for class `LLMClient`
 - [x] Find and Optimize custon mplstyle file
-- [ ] Add detailed code and docs for image drawing
+- [x] Add detailed code and docs for image drawing
 - [ ] Add Config and system level support for `prompts` (or maybe skills...)
