@@ -197,4 +197,4 @@ See detailed human documents and prompts for agents in:
 - [x] Add Demo usage for class `LLMClient`
 - [x] Find and Optimize custon mplstyle file
 - [x] Add detailed code and docs for image drawing
-- [ ] Add Config and system level support for `prompts` (or maybe skills...)
+- [x] Add Config and system level support for `prompts` (or maybe skills...)
