@@ -432,7 +432,3 @@ class LLMClient:
         except Exception as e:
             self.logger.error(f"Safe API call failed: {e}")
             return None
-
-
-# Legacy class name for backward compatibility
-OpenAIClient = LLMClient
